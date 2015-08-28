@@ -7,8 +7,8 @@ class Main {
 	static void main(String... args) {
 		Browser.drive {
 			to LoginPage
-			emailField = "dulshani.gunawardhana89@gmail.com"
-			passwordField = "Winner1!"
+			emailField = "*****"
+			passwordField = "*****"
         	submitButton.click()
 			at ListingPage
 			try{
