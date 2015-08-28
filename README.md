@@ -2,5 +2,5 @@
 For the lazy Bibilophile: Geb automation for Goodreads Giveaways.  
 
 Todo
-# Filter giveaways according to user's interests
-# Windows executable/ Browser extension
+1. Filter giveaways according to user's interests
+2. Windows executable/ Browser extension
